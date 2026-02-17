@@ -18,5 +18,5 @@ I'm a  developer. I love building programs and I'm constantly exploring new tech
 
 ### GitHub Stats
 ![Your Stats](https://github-readme-stats-backup-ii5601.vercel.app/api?username=ii5601&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-backup-ii5601.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-backup-ii5601.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical&layout=compact)
 
