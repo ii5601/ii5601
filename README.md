@@ -16,7 +16,7 @@ I'm a  developer. I love building programs and I'm constantly exploring new tech
   <img alt="Godot" src="https://img.shields.io/badge/Godot-%23478CBF?style=flat-square&logo=godotengine&logoColor=%23FFFFFF">
 </p>
 
-### GitHub Stats
-![Your Stats](https://github-readme-stats-backup-ii5601.vercel.app/api?username=ii5601&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats-backup-ii5601.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical&layout=compact)
-
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats-backup-ii5601.vercel.app/api?username=ii5601&show_icons=true&theme=radical&hide_title=true">
+  <img alt="Top Langs" src="https://github-readme-stats-backup-ii5601.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical&layout=compact">
+</p>
