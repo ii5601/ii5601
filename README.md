@@ -17,6 +17,6 @@ I'm a developer. I love building programs and I'm constantly exploring new techn
 </p>
 
 <div align="center">
-  <img align="left" alt="Stats" src="https://github-readme-stats-backup-ii5601.vercel.app/api?username=ii5601&show_icons=true&theme=radical&hide_title=true">
-  <img align="right" alt="Top Langs" src="https://github-readme-stats-backup-ii5601.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical&layout=compact">
+  <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ii5601&show_icons=true&theme=radical&hide_title=true">
+  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=II5601&show_icons=true&theme=radical&layout=compact">
 </div>
