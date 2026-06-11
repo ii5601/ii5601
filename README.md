@@ -3,7 +3,7 @@
 ### About Me
 I'm a developer. I love building programs and I'm constantly exploring new technologies.
 
-- 🔭 I’m currently working on **[ii5601.github.io](https://ii5601.github.io)**
+- 🔭 I’m currently working on **[ii5601.dev](https://ii5601.vercel.app)**
 
 ### Tech Stack
 <p align="center">
